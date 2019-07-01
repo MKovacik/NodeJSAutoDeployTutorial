@@ -9,6 +9,10 @@ Then automatic deployment to Glitch and Heroku base on YouTube video - Web Appli
 Check deployd solution
 https://nodejsatod.herokuapp.com/
 
+or
+
+https://mkovacik-nodejsautodeploytutorial.glitch.me/
+
 
 ## Instructions
 1. Clone repo
