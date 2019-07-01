@@ -6,6 +6,9 @@ You can [access the tutorial here](https://freshman.tech/learn-node).
 
 Then automatic deployment to Glitch and Heroku base on YouTube video - Web Application Deployment (Glitch and Heroku) - Working with Data and APIs in JavaScript.
 
+Check deployd solution
+https://nodejsatod.herokuapp.com/
+
 
 ## Instructions
 1. Clone repo
